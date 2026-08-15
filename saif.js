@@ -7,3 +7,5 @@ export function calculateWeight(weight) {
 // adding this changes in the last 2nd commit.
 console.log("last 2nd commit.")
 
+// add this in the last commit.
+console.log("last commit.")
